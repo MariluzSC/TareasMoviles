@@ -1,0 +1,7 @@
+<resources>
+    <string-array name="opciones_info">
+        <item>Descripción</item>
+        <item>Continente</item>
+        <item>Cantidad de habitantes</item>
+    </string-array>
+</resources>
